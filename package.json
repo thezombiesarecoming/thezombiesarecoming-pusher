@@ -1,0 +1,10 @@
+{
+  "name": "pusher",
+  "version": "0.0.0",
+  "author": "bradleymeck",
+  "dependencies": {
+    "request": "2.2.x",
+    "eventemitter2": "*",
+    "express": "*"
+  }
+}
