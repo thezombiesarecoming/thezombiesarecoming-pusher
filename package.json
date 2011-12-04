@@ -3,8 +3,14 @@
   "version": "0.0.0",
   "author": "bradleymeck",
   "dependencies": {
-    "request": "2.2.x",
+    "express": "*",
     "eventemitter2": "*",
-    "express": "*"
+    "irc": "0.3.x",
+    "facebook.node": "0.1.x",
+    "nconf": "0.5.0",
+    "nodemailer": "0.3.x",
+    "request": "2.2.x",
+    "socket.io": "0.8.x",
+    "twilio": "0.4.x"
   }
 }
